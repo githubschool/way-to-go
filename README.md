@@ -1,3 +1,5 @@
+Greetings!
+
 # GitHub for Developers
 
 - Class Date: May 26 - May 27, 2020
